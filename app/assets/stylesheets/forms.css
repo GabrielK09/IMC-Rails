@@ -4,7 +4,7 @@
     align-items: center;
     position: relative;
     top: 1rem;
-    left: 30%;
+    left: 25%;
     width: 200px;
     height: 200px;
     background-color: #BDD5EA;
@@ -18,23 +18,31 @@
 
 }
 
+.label-height, .label-wight{
+    color: #506680;
+
+}
+
 .field-height_, .field-wight_{
     border-radius: 5px;
     margin: 5px 0 5px 0;
+    text-align: center;
+
 }
 
 .btn-calc{
     border: none;
     background: none;
-    color: #F7F7FF;
+    color: #506680;
     font-size: 1rem;
     margin: 0 0 5px 0;
+    text-decoration: underline #577399;
 
 }
 
 .link{
-    text-decoration: none;
-    color: #F7F7FF;
+    text-decoration: underline #577399;
+    color: #506680;
 
 }
 

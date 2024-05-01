@@ -1,0 +1,29 @@
+<div class='result'>
+    <h1>Result</h1>
+    <div class='alerts'>
+        <%= flash[:imc]%><br>
+        <%= flash[:situacao] %>
+    
+    </div>
+
+    <%= image_tag "very_low_weight.png", size:'220x200', style:'margin: 15px 0 0 0;', class:'imc-icon'%>
+</div>
+
+
+<div class='what_this'>
+    <h1> What is this </h1>
+        <span>
+             Individuals classified as underweight have a body mass index (BMI) below 18.5, 
+             indicating insufficient weight relative to height. Causes may include inadequate food intake, 
+             malnutrition, underlying medical conditions, or genetic factors.
+
+        </span> 
+
+      <h1 class='part2'> Treatment </h1>
+        <span>
+            Treatment may involve increasing calorie intake, 
+            consuming a nutrient-rich balanced diet, strength-building exercises, 
+            and regular medical monitoring.
+            
+        </span>
+</div>
