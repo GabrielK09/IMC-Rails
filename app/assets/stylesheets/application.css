@@ -1,0 +1,38 @@
+body{
+    background-color: #495867;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.header_app{
+    background-color: #495867;
+    border-bottom: 1px solid #BDD5EA;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 -1px 0;
+
+}
+
+.title_app{
+    padding: 25px;
+    color: #F7F7FF;
+
+}
+
+ .material-symbols-outlined {
+     display: flex;
+     align-items: center;
+     font-variation-settings:
+             'FILL' 0,
+             'wght' 400,
+             'GRAD' 0,
+             'opsz' 24;
+
+     color: #F7F7FF;
+     text-decoration: none;
+ }

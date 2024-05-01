@@ -1,0 +1,16 @@
+<div class="container-form">
+  <div class='Forms'>
+  <%= form_tag('/calculo') do %>
+    <%= label_tag :height, 'Digite sua altura', class:'field-height' %><br>
+    <%= text_field_tag :height, nil, class:'field-height_'%><br>
+    
+    <%= label_tag :weight, 'Digite seu peso', class:'label-weight' %><br>
+    <%= text_field_tag :weight, nil, class:'field-wight_'%><br>
+    
+    <%= submit_tag "Calcular", class:'btn-calc' %>
+  
+  <% end %>
+  
+  <%= link_to "Voltar", root_path, class:'link' %>
+  </div>
+</div>

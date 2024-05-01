@@ -1,0 +1,44 @@
+.container-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 1rem;
+    left: 30%;
+    width: 200px;
+    height: 200px;
+    background-color: #BDD5EA;
+    border-radius: 10px;
+
+}
+
+.Forms{
+    margin: 15px 0 0 0 ;
+    text-align: center;
+
+}
+
+.field-height_, .field-wight_{
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+}
+
+.btn-calc{
+    border: none;
+    background: none;
+    color: #F7F7FF;
+    font-size: 1rem;
+    margin: 0 0 5px 0;
+
+}
+
+.link{
+    text-decoration: none;
+    color: #F7F7FF;
+
+}
+
+.link:hover, .btn-calc:hover{
+    color: #577399;
+
+}
