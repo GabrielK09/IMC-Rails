@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esse projeto foi feito por Gabriel Kochem Ichazo, é um 'site' para calcular o IMC, foi feito bem
+básico, provavelmente muitas coisas podem estar erradas, ainda estou estudando o mundo Rails e por meio
+desse projeto venho para melhorar minhas habilidades.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Instagram: @o_tal_do_tsuki
